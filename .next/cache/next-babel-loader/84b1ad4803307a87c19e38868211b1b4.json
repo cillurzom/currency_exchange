@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport { Spinner } from \"react-bootstrap\";\n\nconst Loading = () => __jsx(\"div\", null, __jsx(\"i\", {\n  className: \"fas fa-spinner fa-spin fa-2x\"\n}));\n\nexport default Loading;","map":null,"metadata":{},"sourceType":"module"}
